@@ -1,3 +1,4 @@
+![Image](https://github.com/nailtonvital/thumbnail-maker/blob/main/images/results/code-logo.jpg)
 <h1 align="center">Thumbnail Maker</h1>
 <p align="center">A automated thumbnail maker for Youtube Videos</p>
   
@@ -35,7 +36,13 @@ pip install Pillow requests
 sudo apt install imagemagick
 ```
 # Usage
-Execute the python file
+<h3>Execute the python file.</h3>
+
+![cmd code](https://github.com/nailtonvital/thumbnail-maker/blob/main/image.png)
+
+<h3>Output:</h3>
+  
+![output](https://github.com/nailtonvital/thumbnail-maker/blob/main/images/results/code-logo.jpg)
 
 # Credits
 * [Backgrounds Images](https://unsplash.com/)
