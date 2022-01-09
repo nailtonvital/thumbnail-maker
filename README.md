@@ -44,6 +44,10 @@ sudo apt install imagemagick
   
 ![output](https://github.com/nailtonvital/thumbnail-maker/blob/main/images/results/code-logo.jpg)
 
+<h3>Other Example:</h3>
+
+![output](https://github.com/nailtonvital/thumbnail-maker/blob/main/images/results/code.jpg)
+
 # Credits
 * [Backgrounds Images](https://unsplash.com/)
 * [Logos](https://iconfinder.com)
