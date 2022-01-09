@@ -1,6 +1,6 @@
 ![Image](https://github.com/nailtonvital/thumbnail-maker/blob/main/images/results/code-logo.jpg)
 <h1 align="center">Thumbnail Maker</h1>
-<p align="center">A automated thumbnail maker for Youtube Videos</p>
+<p align="center">A automated thumbnail generator for Youtube Videos</p>
   
  Content Table
 =================
