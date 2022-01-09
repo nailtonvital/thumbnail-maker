@@ -32,7 +32,7 @@ pip install Pillow requests
 ```
 //if you use linux
 
- sudo apt install imagemagick
+sudo apt install imagemagick
 ```
 # Usage
 Execute the python file
