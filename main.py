@@ -96,7 +96,6 @@ if choice == "y":
     text = txt
 
     # Calculate the average length of a single character of our font.
-    # Note: this takes into account the specific font and font size.
     avg_char_width = sum(font.getsize(char)[0] for char in ascii_letters) / len(ascii_letters)
 
     # Translate this average length into a character count
@@ -123,7 +122,6 @@ else:
     text = txt
 
     # Calculate the average length of a single character of our font.
-    # Note: this takes into account the specific font and font size.
     avg_char_width = sum(font.getsize(char)[0] for char in ascii_letters) / len(ascii_letters)
 
     # Translate this average length into a character count
