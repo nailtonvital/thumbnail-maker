@@ -88,7 +88,7 @@ if choice == "y":
     while len(txt)>limit:
         txt = str(input(f"The text cant have more than {limit} characters:"))
 
-    font = ImageFont.truetype(font='../assets/fonts/Impact.ttf', size=200)
+    font = ImageFont.truetype(font='fonts/Impact.ttf', size=200)
 
     draw = ImageDraw.Draw(im=img)
 
@@ -115,7 +115,7 @@ else:
     while len(txt)>limit:
         txt = str(input(f"The text cant have more than {limit} characters:"))
 
-    font = ImageFont.truetype(font='../assets/fonts/Impact.ttf', size=150)
+    font = ImageFont.truetype(font='fonts/Impact.ttf', size=150)
 
     draw = ImageDraw.Draw(im=img)
 
