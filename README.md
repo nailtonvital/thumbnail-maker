@@ -51,3 +51,4 @@ sudo apt install imagemagick
 # Credits
 * [Backgrounds Images](https://unsplash.com/)
 * [Logos](https://iconfinder.com)
+* [Text Wrap](https://www.jcchouinard.com/create-feature-image-with-python-pillow/)
